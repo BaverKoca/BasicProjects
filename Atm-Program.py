@@ -1,6 +1,5 @@
 # Atm program
 
-
 def paraçekme():
     
     global _bakiye
