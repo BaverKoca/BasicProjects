@@ -35,7 +35,7 @@ def hesapla():
         sonuc = s1 / s2
     giris.delete(0,'end')
     giris.insert(0,str(sonuc))
-    
+
 
 pencere = Tk()
 
