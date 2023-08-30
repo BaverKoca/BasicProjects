@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 def yaz(x):
     s = len(giris.get())
     giris.insert(s,str(x))
